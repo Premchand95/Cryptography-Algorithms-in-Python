@@ -14,3 +14,8 @@
 * Diffe-Hellman
 * Merkle-Hellman Knapsack system
 * PGM
+
+### Requirements 
+
+* Python 
+* Java (DES,RSA and Rabin)
